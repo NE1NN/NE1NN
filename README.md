@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Full-stack engineer with experience in React/React Native, TypeScript, Kotlin, and Swift. Web and mobile dev. 
 
 <!--
